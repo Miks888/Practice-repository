@@ -1,1 +1,1 @@
-Feature A version of conflict 3
+Conflict 3 resolved between feature-A and feature-B
