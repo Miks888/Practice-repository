@@ -1,2 +1,2 @@
-Feature B version of conflict 4
+Conflict 4 resolved between feature-B and feature-C
 
