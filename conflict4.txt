@@ -1,0 +1,2 @@
+Feature C version of conflict 4
+
