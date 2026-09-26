@@ -1,2 +1,2 @@
-Main updated version of conflict 1
+Conflict 1 resolved between main and feature-A
 
