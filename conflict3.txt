@@ -1,0 +1,1 @@
+Feature B version of conflict 3
