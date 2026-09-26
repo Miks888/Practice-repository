@@ -1,2 +1,1 @@
-Main version of conflict 2
-
+Conflict 2 resolved between main and feature-B
