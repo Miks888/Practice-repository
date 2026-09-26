@@ -1,0 +1,2 @@
+Feature B version of conflict 4
+
