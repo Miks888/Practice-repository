@@ -1,2 +1,2 @@
-Main version of conflict 1
+Feature A version of conflict 1
 
